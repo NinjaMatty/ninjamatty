@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm NinjaMatty</h1>
+<h1>Hi there 👋, I'm NinjaMatty</h1>
 <p>Senior full stack software developer. Specializing in web dev, cross platform dev and backend infrastructure.</p>
 <p align="middle">
   <a href="https://www.linkedin.com/in/mbe/" target_="blank">
